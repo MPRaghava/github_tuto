@@ -1,1 +1,5 @@
-This is an example file.
+langchain
+langchain_core
+langchain-community
+langgraph_core
+langgraph_tools
